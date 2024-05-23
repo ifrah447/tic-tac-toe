@@ -1,5 +1,4 @@
 # tic-tac-toe
-I developed a Tic Tac Toe game that goes beyond the basic mechanics by incorporating advanced features for an enhanced user experience. 
 Tic Tac Toe Project Description
 I developed a comprehensive Tic Tac Toe game that extends beyond basic gameplay to include advanced features for an enriched user experience. This project not only offers the classic Tic Tac Toe mechanics but also incorporates functionality to save and track player data.
 
